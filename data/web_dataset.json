@@ -1,0 +1,1382 @@
+[
+  {
+    "id": "animals_001",
+    "text": "A beautiful photo featuring bird",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/animals_001.jpg",
+    "category": "animals",
+    "keyword": "bird",
+    "metadata": {
+      "category": "animals",
+      "keyword": "bird",
+      "source": "picsum",
+      "image_id": 958,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "animals_002",
+    "text": "A beautiful photo featuring bird",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/animals_002.jpg",
+    "category": "animals",
+    "keyword": "bird",
+    "metadata": {
+      "category": "animals",
+      "keyword": "bird",
+      "source": "picsum",
+      "image_id": 455,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "animals_003",
+    "text": "A beautiful photo featuring elephant",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/animals_003.jpg",
+    "category": "animals",
+    "keyword": "elephant",
+    "metadata": {
+      "category": "animals",
+      "keyword": "elephant",
+      "source": "picsum",
+      "image_id": 724,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "animals_004",
+    "text": "A beautiful photo featuring dog",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/animals_004.jpg",
+    "category": "animals",
+    "keyword": "dog",
+    "metadata": {
+      "category": "animals",
+      "keyword": "dog",
+      "source": "picsum",
+      "image_id": 163,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "animals_005",
+    "text": "A beautiful photo featuring tiger",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/animals_005.jpg",
+    "category": "animals",
+    "keyword": "tiger",
+    "metadata": {
+      "category": "animals",
+      "keyword": "tiger",
+      "source": "picsum",
+      "image_id": 274,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "animals_006",
+    "text": "A beautiful photo featuring cat",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/animals_006.jpg",
+    "category": "animals",
+    "keyword": "cat",
+    "metadata": {
+      "category": "animals",
+      "keyword": "cat",
+      "source": "picsum",
+      "image_id": 219,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "animals_007",
+    "text": "A beautiful photo featuring bird",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/animals_007.jpg",
+    "category": "animals",
+    "keyword": "bird",
+    "metadata": {
+      "category": "animals",
+      "keyword": "bird",
+      "source": "picsum",
+      "image_id": 384,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "animals_008",
+    "text": "A beautiful photo featuring horse",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/animals_008.jpg",
+    "category": "animals",
+    "keyword": "horse",
+    "metadata": {
+      "category": "animals",
+      "keyword": "horse",
+      "source": "picsum",
+      "image_id": 813,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "food_009",
+    "text": "Delicious fruit captured in high quality",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/food_009.jpg",
+    "category": "food",
+    "keyword": "fruit",
+    "metadata": {
+      "category": "food",
+      "keyword": "fruit",
+      "source": "picsum",
+      "image_id": 945,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "food_010",
+    "text": "Delicious sushi captured in high quality",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/food_010.jpg",
+    "category": "food",
+    "keyword": "sushi",
+    "metadata": {
+      "category": "food",
+      "keyword": "sushi",
+      "source": "picsum",
+      "image_id": 840,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "food_011",
+    "text": "Delicious fruit captured in high quality",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/food_011.jpg",
+    "category": "food",
+    "keyword": "fruit",
+    "metadata": {
+      "category": "food",
+      "keyword": "fruit",
+      "source": "picsum",
+      "image_id": 892,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "food_012",
+    "text": "Delicious bread captured in high quality",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/food_012.jpg",
+    "category": "food",
+    "keyword": "bread",
+    "metadata": {
+      "category": "food",
+      "keyword": "bread",
+      "source": "picsum",
+      "image_id": 413,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "food_013",
+    "text": "Delicious coffee captured in high quality",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/food_013.jpg",
+    "category": "food",
+    "keyword": "coffee",
+    "metadata": {
+      "category": "food",
+      "keyword": "coffee",
+      "source": "picsum",
+      "image_id": 281,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "food_014",
+    "text": "Delicious bread captured in high quality",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/food_014.jpg",
+    "category": "food",
+    "keyword": "bread",
+    "metadata": {
+      "category": "food",
+      "keyword": "bread",
+      "source": "picsum",
+      "image_id": 280,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "food_015",
+    "text": "Delicious pasta captured in high quality",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/food_015.jpg",
+    "category": "food",
+    "keyword": "pasta",
+    "metadata": {
+      "category": "food",
+      "keyword": "pasta",
+      "source": "picsum",
+      "image_id": 511,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "food_016",
+    "text": "Delicious coffee captured in high quality",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/food_016.jpg",
+    "category": "food",
+    "keyword": "coffee",
+    "metadata": {
+      "category": "food",
+      "keyword": "coffee",
+      "source": "picsum",
+      "image_id": 444,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "food_017",
+    "text": "Delicious coffee captured in high quality",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/food_017.jpg",
+    "category": "food",
+    "keyword": "coffee",
+    "metadata": {
+      "category": "food",
+      "keyword": "coffee",
+      "source": "picsum",
+      "image_id": 284,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "technology_018",
+    "text": "Modern smartphone showcasing innovation",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/technology_018.jpg",
+    "category": "technology",
+    "keyword": "smartphone",
+    "metadata": {
+      "category": "technology",
+      "keyword": "smartphone",
+      "source": "picsum",
+      "image_id": 717,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "technology_019",
+    "text": "Modern vr showcasing innovation",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/technology_019.jpg",
+    "category": "technology",
+    "keyword": "vr",
+    "metadata": {
+      "category": "technology",
+      "keyword": "vr",
+      "source": "picsum",
+      "image_id": 167,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "technology_020",
+    "text": "Modern drone showcasing innovation",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/technology_020.jpg",
+    "category": "technology",
+    "keyword": "drone",
+    "metadata": {
+      "category": "technology",
+      "keyword": "drone",
+      "source": "picsum",
+      "image_id": 789,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "technology_021",
+    "text": "Modern drone showcasing innovation",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/technology_021.jpg",
+    "category": "technology",
+    "keyword": "drone",
+    "metadata": {
+      "category": "technology",
+      "keyword": "drone",
+      "source": "picsum",
+      "image_id": 103,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "technology_022",
+    "text": "Modern smartphone showcasing innovation",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/technology_022.jpg",
+    "category": "technology",
+    "keyword": "smartphone",
+    "metadata": {
+      "category": "technology",
+      "keyword": "smartphone",
+      "source": "picsum",
+      "image_id": 390,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "technology_023",
+    "text": "Modern smartphone showcasing innovation",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/technology_023.jpg",
+    "category": "technology",
+    "keyword": "smartphone",
+    "metadata": {
+      "category": "technology",
+      "keyword": "smartphone",
+      "source": "picsum",
+      "image_id": 198,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "technology_024",
+    "text": "Modern computer showcasing innovation",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/technology_024.jpg",
+    "category": "technology",
+    "keyword": "computer",
+    "metadata": {
+      "category": "technology",
+      "keyword": "computer",
+      "source": "picsum",
+      "image_id": 13,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "technology_025",
+    "text": "Modern computer showcasing innovation",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/technology_025.jpg",
+    "category": "technology",
+    "keyword": "computer",
+    "metadata": {
+      "category": "technology",
+      "keyword": "computer",
+      "source": "picsum",
+      "image_id": 798,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "technology_026",
+    "text": "Modern 3d-printer showcasing innovation",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/technology_026.jpg",
+    "category": "technology",
+    "keyword": "3d-printer",
+    "metadata": {
+      "category": "technology",
+      "keyword": "3d-printer",
+      "source": "picsum",
+      "image_id": 56,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "technology_027",
+    "text": "Modern robot showcasing innovation",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/technology_027.jpg",
+    "category": "technology",
+    "keyword": "robot",
+    "metadata": {
+      "category": "technology",
+      "keyword": "robot",
+      "source": "picsum",
+      "image_id": 265,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "nature_028",
+    "text": "Stunning forest in natural setting",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/nature_028.jpg",
+    "category": "nature",
+    "keyword": "forest",
+    "metadata": {
+      "category": "nature",
+      "keyword": "forest",
+      "source": "picsum",
+      "image_id": 617,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "nature_029",
+    "text": "Stunning waterfall in natural setting",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/nature_029.jpg",
+    "category": "nature",
+    "keyword": "waterfall",
+    "metadata": {
+      "category": "nature",
+      "keyword": "waterfall",
+      "source": "picsum",
+      "image_id": 921,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "nature_030",
+    "text": "Stunning landscape in natural setting",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/nature_030.jpg",
+    "category": "nature",
+    "keyword": "landscape",
+    "metadata": {
+      "category": "nature",
+      "keyword": "landscape",
+      "source": "picsum",
+      "image_id": 925,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "nature_031",
+    "text": "Stunning forest in natural setting",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/nature_031.jpg",
+    "category": "nature",
+    "keyword": "forest",
+    "metadata": {
+      "category": "nature",
+      "keyword": "forest",
+      "source": "picsum",
+      "image_id": 196,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "nature_032",
+    "text": "Stunning sunset in natural setting",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/nature_032.jpg",
+    "category": "nature",
+    "keyword": "sunset",
+    "metadata": {
+      "category": "nature",
+      "keyword": "sunset",
+      "source": "picsum",
+      "image_id": 181,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "nature_033",
+    "text": "Stunning flower in natural setting",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/nature_033.jpg",
+    "category": "nature",
+    "keyword": "flower",
+    "metadata": {
+      "category": "nature",
+      "keyword": "flower",
+      "source": "picsum",
+      "image_id": 760,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "nature_034",
+    "text": "Stunning waterfall in natural setting",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/nature_034.jpg",
+    "category": "nature",
+    "keyword": "waterfall",
+    "metadata": {
+      "category": "nature",
+      "keyword": "waterfall",
+      "source": "picsum",
+      "image_id": 866,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "nature_035",
+    "text": "Stunning tree in natural setting",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/nature_035.jpg",
+    "category": "nature",
+    "keyword": "tree",
+    "metadata": {
+      "category": "nature",
+      "keyword": "tree",
+      "source": "picsum",
+      "image_id": 151,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "nature_036",
+    "text": "Stunning ocean in natural setting",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/nature_036.jpg",
+    "category": "nature",
+    "keyword": "ocean",
+    "metadata": {
+      "category": "nature",
+      "keyword": "ocean",
+      "source": "picsum",
+      "image_id": 366,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "architecture_037",
+    "text": "Impressive castle with architectural beauty",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/architecture_037.jpg",
+    "category": "architecture",
+    "keyword": "castle",
+    "metadata": {
+      "category": "architecture",
+      "keyword": "castle",
+      "source": "picsum",
+      "image_id": 203,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "architecture_038",
+    "text": "Impressive museum with architectural beauty",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/architecture_038.jpg",
+    "category": "architecture",
+    "keyword": "museum",
+    "metadata": {
+      "category": "architecture",
+      "keyword": "museum",
+      "source": "picsum",
+      "image_id": 692,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "architecture_039",
+    "text": "Impressive skyscraper with architectural beauty",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/architecture_039.jpg",
+    "category": "architecture",
+    "keyword": "skyscraper",
+    "metadata": {
+      "category": "architecture",
+      "keyword": "skyscraper",
+      "source": "picsum",
+      "image_id": 92,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "architecture_040",
+    "text": "Impressive museum with architectural beauty",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/architecture_040.jpg",
+    "category": "architecture",
+    "keyword": "museum",
+    "metadata": {
+      "category": "architecture",
+      "keyword": "museum",
+      "source": "picsum",
+      "image_id": 938,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "architecture_041",
+    "text": "Impressive library with architectural beauty",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/architecture_041.jpg",
+    "category": "architecture",
+    "keyword": "library",
+    "metadata": {
+      "category": "architecture",
+      "keyword": "library",
+      "source": "picsum",
+      "image_id": 198,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "architecture_042",
+    "text": "Impressive bridge with architectural beauty",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/architecture_042.jpg",
+    "category": "architecture",
+    "keyword": "bridge",
+    "metadata": {
+      "category": "architecture",
+      "keyword": "bridge",
+      "source": "picsum",
+      "image_id": 472,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "architecture_043",
+    "text": "Impressive building with architectural beauty",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/architecture_043.jpg",
+    "category": "architecture",
+    "keyword": "building",
+    "metadata": {
+      "category": "architecture",
+      "keyword": "building",
+      "source": "picsum",
+      "image_id": 328,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "architecture_044",
+    "text": "Impressive library with architectural beauty",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/architecture_044.jpg",
+    "category": "architecture",
+    "keyword": "library",
+    "metadata": {
+      "category": "architecture",
+      "keyword": "library",
+      "source": "picsum",
+      "image_id": 215,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "architecture_045",
+    "text": "Impressive library with architectural beauty",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/architecture_045.jpg",
+    "category": "architecture",
+    "keyword": "library",
+    "metadata": {
+      "category": "architecture",
+      "keyword": "library",
+      "source": "picsum",
+      "image_id": 101,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "architecture_046",
+    "text": "Impressive building with architectural beauty",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/architecture_046.jpg",
+    "category": "architecture",
+    "keyword": "building",
+    "metadata": {
+      "category": "architecture",
+      "keyword": "building",
+      "source": "picsum",
+      "image_id": 688,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "people_047",
+    "text": "People engaged in chef activities",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/people_047.jpg",
+    "category": "people",
+    "keyword": "chef",
+    "metadata": {
+      "category": "people",
+      "keyword": "chef",
+      "source": "picsum",
+      "image_id": 272,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "people_048",
+    "text": "People engaged in chef activities",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/people_048.jpg",
+    "category": "people",
+    "keyword": "chef",
+    "metadata": {
+      "category": "people",
+      "keyword": "chef",
+      "source": "picsum",
+      "image_id": 841,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "people_049",
+    "text": "People engaged in family activities",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/people_049.jpg",
+    "category": "people",
+    "keyword": "family",
+    "metadata": {
+      "category": "people",
+      "keyword": "family",
+      "source": "picsum",
+      "image_id": 944,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "people_050",
+    "text": "People engaged in doctor activities",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/people_050.jpg",
+    "category": "people",
+    "keyword": "doctor",
+    "metadata": {
+      "category": "people",
+      "keyword": "doctor",
+      "source": "picsum",
+      "image_id": 655,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "people_051",
+    "text": "People engaged in doctor activities",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/people_051.jpg",
+    "category": "people",
+    "keyword": "doctor",
+    "metadata": {
+      "category": "people",
+      "keyword": "doctor",
+      "source": "picsum",
+      "image_id": 884,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "people_052",
+    "text": "People engaged in doctor activities",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/people_052.jpg",
+    "category": "people",
+    "keyword": "doctor",
+    "metadata": {
+      "category": "people",
+      "keyword": "doctor",
+      "source": "picsum",
+      "image_id": 331,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "people_053",
+    "text": "People engaged in children activities",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/people_053.jpg",
+    "category": "people",
+    "keyword": "children",
+    "metadata": {
+      "category": "people",
+      "keyword": "children",
+      "source": "picsum",
+      "image_id": 254,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "people_054",
+    "text": "People engaged in artist activities",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/people_054.jpg",
+    "category": "people",
+    "keyword": "artist",
+    "metadata": {
+      "category": "people",
+      "keyword": "artist",
+      "source": "picsum",
+      "image_id": 657,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "people_055",
+    "text": "People engaged in children activities",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/people_055.jpg",
+    "category": "people",
+    "keyword": "children",
+    "metadata": {
+      "category": "people",
+      "keyword": "children",
+      "source": "picsum",
+      "image_id": 939,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "people_056",
+    "text": "People engaged in artist activities",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/people_056.jpg",
+    "category": "people",
+    "keyword": "artist",
+    "metadata": {
+      "category": "people",
+      "keyword": "artist",
+      "source": "picsum",
+      "image_id": 683,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "transportation_057",
+    "text": "motorcycle as a mode of transportation",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/transportation_057.jpg",
+    "category": "transportation",
+    "keyword": "motorcycle",
+    "metadata": {
+      "category": "transportation",
+      "keyword": "motorcycle",
+      "source": "picsum",
+      "image_id": 902,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "transportation_058",
+    "text": "airplane as a mode of transportation",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/transportation_058.jpg",
+    "category": "transportation",
+    "keyword": "airplane",
+    "metadata": {
+      "category": "transportation",
+      "keyword": "airplane",
+      "source": "picsum",
+      "image_id": 796,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "transportation_059",
+    "text": "train as a mode of transportation",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/transportation_059.jpg",
+    "category": "transportation",
+    "keyword": "train",
+    "metadata": {
+      "category": "transportation",
+      "keyword": "train",
+      "source": "picsum",
+      "image_id": 233,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "transportation_060",
+    "text": "bus as a mode of transportation",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/transportation_060.jpg",
+    "category": "transportation",
+    "keyword": "bus",
+    "metadata": {
+      "category": "transportation",
+      "keyword": "bus",
+      "source": "picsum",
+      "image_id": 293,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "transportation_061",
+    "text": "bicycle as a mode of transportation",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/transportation_061.jpg",
+    "category": "transportation",
+    "keyword": "bicycle",
+    "metadata": {
+      "category": "transportation",
+      "keyword": "bicycle",
+      "source": "picsum",
+      "image_id": 54,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "transportation_062",
+    "text": "bus as a mode of transportation",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/transportation_062.jpg",
+    "category": "transportation",
+    "keyword": "bus",
+    "metadata": {
+      "category": "transportation",
+      "keyword": "bus",
+      "source": "picsum",
+      "image_id": 542,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "transportation_063",
+    "text": "subway as a mode of transportation",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/transportation_063.jpg",
+    "category": "transportation",
+    "keyword": "subway",
+    "metadata": {
+      "category": "transportation",
+      "keyword": "subway",
+      "source": "picsum",
+      "image_id": 257,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "transportation_064",
+    "text": "train as a mode of transportation",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/transportation_064.jpg",
+    "category": "transportation",
+    "keyword": "train",
+    "metadata": {
+      "category": "transportation",
+      "keyword": "train",
+      "source": "picsum",
+      "image_id": 989,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "transportation_065",
+    "text": "subway as a mode of transportation",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/transportation_065.jpg",
+    "category": "transportation",
+    "keyword": "subway",
+    "metadata": {
+      "category": "transportation",
+      "keyword": "subway",
+      "source": "picsum",
+      "image_id": 405,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "transportation_066",
+    "text": "ship as a mode of transportation",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/transportation_066.jpg",
+    "category": "transportation",
+    "keyword": "ship",
+    "metadata": {
+      "category": "transportation",
+      "keyword": "ship",
+      "source": "picsum",
+      "image_id": 208,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "art_067",
+    "text": "Artistic representation of sculpture",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/art_067.jpg",
+    "category": "art",
+    "keyword": "sculpture",
+    "metadata": {
+      "category": "art",
+      "keyword": "sculpture",
+      "source": "picsum",
+      "image_id": 547,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "art_068",
+    "text": "Artistic representation of photography",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/art_068.jpg",
+    "category": "art",
+    "keyword": "photography",
+    "metadata": {
+      "category": "art",
+      "keyword": "photography",
+      "source": "picsum",
+      "image_id": 315,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "art_069",
+    "text": "Artistic representation of photography",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/art_069.jpg",
+    "category": "art",
+    "keyword": "photography",
+    "metadata": {
+      "category": "art",
+      "keyword": "photography",
+      "source": "picsum",
+      "image_id": 670,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "art_070",
+    "text": "Artistic representation of pottery",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/art_070.jpg",
+    "category": "art",
+    "keyword": "pottery",
+    "metadata": {
+      "category": "art",
+      "keyword": "pottery",
+      "source": "picsum",
+      "image_id": 546,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "art_071",
+    "text": "Artistic representation of painting",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/art_071.jpg",
+    "category": "art",
+    "keyword": "painting",
+    "metadata": {
+      "category": "art",
+      "keyword": "painting",
+      "source": "picsum",
+      "image_id": 756,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "art_072",
+    "text": "Artistic representation of photography",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/art_072.jpg",
+    "category": "art",
+    "keyword": "photography",
+    "metadata": {
+      "category": "art",
+      "keyword": "photography",
+      "source": "picsum",
+      "image_id": 819,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "art_073",
+    "text": "Artistic representation of sculpture",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/art_073.jpg",
+    "category": "art",
+    "keyword": "sculpture",
+    "metadata": {
+      "category": "art",
+      "keyword": "sculpture",
+      "source": "picsum",
+      "image_id": 623,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "art_074",
+    "text": "Artistic representation of installation",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/art_074.jpg",
+    "category": "art",
+    "keyword": "installation",
+    "metadata": {
+      "category": "art",
+      "keyword": "installation",
+      "source": "picsum",
+      "image_id": 788,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "art_075",
+    "text": "Artistic representation of painting",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/art_075.jpg",
+    "category": "art",
+    "keyword": "painting",
+    "metadata": {
+      "category": "art",
+      "keyword": "painting",
+      "source": "picsum",
+      "image_id": 261,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "art_076",
+    "text": "Artistic representation of drawing",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/art_076.jpg",
+    "category": "art",
+    "keyword": "drawing",
+    "metadata": {
+      "category": "art",
+      "keyword": "drawing",
+      "source": "picsum",
+      "image_id": 705,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "sports_077",
+    "text": "Dynamic yoga sports action",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/sports_077.jpg",
+    "category": "sports",
+    "keyword": "yoga",
+    "metadata": {
+      "category": "sports",
+      "keyword": "yoga",
+      "source": "picsum",
+      "image_id": 858,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "sports_078",
+    "text": "Dynamic golf sports action",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/sports_078.jpg",
+    "category": "sports",
+    "keyword": "golf",
+    "metadata": {
+      "category": "sports",
+      "keyword": "golf",
+      "source": "picsum",
+      "image_id": 741,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "sports_079",
+    "text": "Dynamic golf sports action",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/sports_079.jpg",
+    "category": "sports",
+    "keyword": "golf",
+    "metadata": {
+      "category": "sports",
+      "keyword": "golf",
+      "source": "picsum",
+      "image_id": 251,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "sports_080",
+    "text": "Dynamic basketball sports action",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/sports_080.jpg",
+    "category": "sports",
+    "keyword": "basketball",
+    "metadata": {
+      "category": "sports",
+      "keyword": "basketball",
+      "source": "picsum",
+      "image_id": 705,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "sports_081",
+    "text": "Dynamic golf sports action",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/sports_081.jpg",
+    "category": "sports",
+    "keyword": "golf",
+    "metadata": {
+      "category": "sports",
+      "keyword": "golf",
+      "source": "picsum",
+      "image_id": 26,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "sports_082",
+    "text": "Dynamic golf sports action",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/sports_082.jpg",
+    "category": "sports",
+    "keyword": "golf",
+    "metadata": {
+      "category": "sports",
+      "keyword": "golf",
+      "source": "picsum",
+      "image_id": 61,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "sports_083",
+    "text": "Dynamic basketball sports action",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/sports_083.jpg",
+    "category": "sports",
+    "keyword": "basketball",
+    "metadata": {
+      "category": "sports",
+      "keyword": "basketball",
+      "source": "picsum",
+      "image_id": 511,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "sports_084",
+    "text": "Dynamic golf sports action",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/sports_084.jpg",
+    "category": "sports",
+    "keyword": "golf",
+    "metadata": {
+      "category": "sports",
+      "keyword": "golf",
+      "source": "picsum",
+      "image_id": 85,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "sports_085",
+    "text": "Dynamic skiing sports action",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/sports_085.jpg",
+    "category": "sports",
+    "keyword": "skiing",
+    "metadata": {
+      "category": "sports",
+      "keyword": "skiing",
+      "source": "picsum",
+      "image_id": 75,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "education_086",
+    "text": "Educational scene involving study",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/education_086.jpg",
+    "category": "education",
+    "keyword": "study",
+    "metadata": {
+      "category": "education",
+      "keyword": "study",
+      "source": "picsum",
+      "image_id": 89,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "education_087",
+    "text": "Educational scene involving study",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/education_087.jpg",
+    "category": "education",
+    "keyword": "study",
+    "metadata": {
+      "category": "education",
+      "keyword": "study",
+      "source": "picsum",
+      "image_id": 385,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "education_088",
+    "text": "Educational scene involving university",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/education_088.jpg",
+    "category": "education",
+    "keyword": "university",
+    "metadata": {
+      "category": "education",
+      "keyword": "university",
+      "source": "picsum",
+      "image_id": 502,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "education_089",
+    "text": "Educational scene involving school",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/education_089.jpg",
+    "category": "education",
+    "keyword": "school",
+    "metadata": {
+      "category": "education",
+      "keyword": "school",
+      "source": "picsum",
+      "image_id": 913,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "education_090",
+    "text": "Educational scene involving graduation",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/education_090.jpg",
+    "category": "education",
+    "keyword": "graduation",
+    "metadata": {
+      "category": "education",
+      "keyword": "graduation",
+      "source": "picsum",
+      "image_id": 316,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "education_091",
+    "text": "Educational scene involving library",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/education_091.jpg",
+    "category": "education",
+    "keyword": "library",
+    "metadata": {
+      "category": "education",
+      "keyword": "library",
+      "source": "picsum",
+      "image_id": 658,
+      "width": 800,
+      "height": 600
+    }
+  },
+  {
+    "id": "education_092",
+    "text": "Educational scene involving classroom",
+    "image_path": "/home/dk/intern/cuihyun/multimodal-mongodb-retrieval-system/data/images/education_092.jpg",
+    "category": "education",
+    "keyword": "classroom",
+    "metadata": {
+      "category": "education",
+      "keyword": "classroom",
+      "source": "picsum",
+      "image_id": 786,
+      "width": 800,
+      "height": 600
+    }
+  }
+]
