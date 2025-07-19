@@ -111,8 +111,8 @@ ingestion = DataIngestion()
 
 # 텍스트 문서 추가
 doc_id = ingestion.ingest_text(
-    text="인공지능은 인간의 지능을 모방하는 기술입니다.",
-    metadata={"category": "AI", "language": "ko"}
+    text="비둘기가 서울 상공을 날아가고 있습니다.",
+    metadata={"category": "Animal", "language": "ko"}
 )
 ```
 
@@ -131,7 +131,7 @@ doc_id = ingestion.ingest_image(
 ```python
 # 텍스트와 이미지가 함께 있는 문서 추가
 doc_id = ingestion.ingest_multimodal(
-    text="현대적인 건축물의 유리와 철골 구조",
+    text="현대적인 건축물의 유리와 철골 구조인 빌딩",
     image_path="path/to/building.jpg",
     metadata={"category": "architecture"}
 )
@@ -145,14 +145,14 @@ from src.utils.retrieval import MultimodalRetriever
 retriever = MultimodalRetriever()
 
 # 텍스트로 검색
-results = retriever.search_by_text("인공지능 기술", top_k=5)
+results = retriever.search_by_text("비둘기", top_k=5)
 
 # 이미지로 검색
 results = retriever.search_by_image("query_image.jpg", top_k=5)
 
 # 멀티모달 검색 (텍스트 + 이미지)
 results = retriever.search_multimodal(
-    text="모던 건축",
+    text="모던한 스타일의 건축물",
     image_path="query_building.jpg",
     top_k=5
 )
@@ -175,8 +175,8 @@ results = retriever.hybrid_search(
 
 ```bash
 curl -X POST "http://localhost:8000/ingest/text" \
-  -F "text=인공지능은 미래 기술입니다" \
-  -F 'metadata={"category": "tech"}'
+  -F "text=비둘기가 날아오르고 있다" \
+  -F 'metadata={"category": "Animal"}'
 ```
 
 #### POST `/ingest/image`
@@ -205,7 +205,7 @@ curl -X POST "http://localhost:8000/ingest/multimodal" \
 
 ```bash
 curl -X POST "http://localhost:8000/search/text" \
-  -F "query=인공지능" \
+  -F "query=비둘기" \
   -F "top_k=10"
 ```
 
@@ -249,8 +249,8 @@ curl -X POST "http://localhost:8000/search/hybrid" \
 from src.database.schemas import SearchQuery
 
 query = SearchQuery(
-    query_text="기계학습",
-    metadata_filter={"category": "AI", "language": "ko"},
+    query_text="비둘기",
+    metadata_filter={"category": "Animal", "language": "ko"},
     top_k=10
 )
 results = retriever.search(query)
